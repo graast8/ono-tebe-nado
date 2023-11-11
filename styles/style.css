@@ -50,7 +50,6 @@ body {
 .header__logo {
     display: flex;
     justify-content: start;
-    width: 290px;
 }
 .header__logo-image {
     height: 105px;
@@ -95,7 +94,7 @@ body {
     justify-content: space-between;
     color: #FFF;
     font-family: Raleway, Arial, Helvetica, sans-serif;
-    font-size: 95px;
+    font-size: 100px;
     font-style: normal;
     line-height: 115%;
     text-transform: uppercase; 
