@@ -49,7 +49,7 @@ body {
 }
 .header__logo {
     display: flex;
-    justify-content: start;
+    justify-content: center;
 }
 .header__logo-image {
     height: 105px;
