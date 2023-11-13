@@ -105,23 +105,23 @@ body {
 }
 
 .aligned-text {
-    align-self: center;
+    align-self: start;
     padding-top: 173px;
-    width: 1340px;
 }
 .aligned-text_center {
-    width: 1280px;
-    text-align: center;
+    align-self: center;
 }
 .aligned-text_right {
-    text-align: end;
-    width: 1400px;
+    align-self: end;
 }
 .letter-spacing-extended {
     letter-spacing: 60px;
 }
 .letter-spacing {
     letter-spacing: 30px;
+}
+.no-letter-spacing {
+    letter-spacing: 0px;
 }
 .cover__description {
     z-index: 1;
