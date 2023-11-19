@@ -304,6 +304,8 @@ footer {
     height: 100%;
     align-items: center;
     justify-content: end;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    font-size: 18px;
 }
 .footer__menu-link_active {
     text-decoration: none;
